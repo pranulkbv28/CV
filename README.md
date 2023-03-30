@@ -1,1 +1,99 @@
 # CV
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pranaav's Website</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="me.jpeg" alt="Pranaav Profile Picture"></td>
+            <td> <h1>Pranaav B V</h1>
+                <p><em>Studying in <strong><a href="https://vit.ac.in/">VIT,  Vellore</a></strong>.</em></p>
+                <p>I am 21 years old and I love dogs and although to do love cats, I am deathly allergic to them.</p>
+                <hr></td>
+        </tr>
+    </table>
+    <h3>Education</h3>
+    <ul>
+        <li>UKG and LKG in Prayag Montessori</li>
+        <li>1st to 5th in Bishop Cottons Boy's School</li>
+        <li>6th to 10th in DPS South, Bengaluru.</li>
+        <li>+1 and+2 in DCFL, Bengaluru</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table border="1" cellspacing="10">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2022</td>
+                <td>Unschool</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Remarks</th>
+                <th>Very work-oriented.</th>
+            </tr>
+        </tfoot>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+        <tr>
+            <td>Web Development</td>   
+            <td>⭐⭐⭐</td>
+            <td>Microsoft 360</td>   
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Paint</td>   
+            <td>⭐⭐⭐⭐⭐</td>
+            <td>R Studio</td>   
+            <td>⭐⭐⭐</td>
+        </tr>
+    </table>
+    <!--or this method can be used for a nested table method
+        <table>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>Web Development</td>
+                        <td> ⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>Microsoft 360</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>Paint</td>
+                        <td>⭐⭐⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td>R Studio</td>
+                        <td>⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>-->
+    <hr>
+    <table cellspacing="40">
+        <tr>
+            <td><p><a href="Hobbies.html">My Hobbies</a></p></td>
+            <td><p><a href="Contact_details.html">Contact Me</a></p></td>
+        </tr>
+    </table>
+</body>
+</html>
